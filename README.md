@@ -12,3 +12,8 @@
 
 ### ✅ Completion Proof
 ![Git Training Screenshot](https://github.com/Nikhil2374/5209782_Nikhil-Kumar/blob/main/GIT/Git%20Certificate%20Simplilearn%20ss.png)
+
+## Week 4 - Essentials of C Programming
+
+### ✅ Completion Proof
+![C Training Screenshot](https://github.com/Nikhil2374/5209782_Nikhil-Kumar/blob/main/C/Screenshot%202025-08-05%20230025.png)
