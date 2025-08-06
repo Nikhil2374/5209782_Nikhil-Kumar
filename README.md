@@ -17,3 +17,4 @@
 
 ### ✅ Completion Proof
 ![C Training Screenshot](https://github.com/Nikhil2374/5209782_Nikhil-Kumar/blob/main/C/Screenshot%202025-08-05%20230025.png)
+![C Training Screenshot](https://github.com/Nikhil2374/5209782_Nikhil-Kumar/blob/main/C/Screenshot%202025-08-06%20150600.png)
